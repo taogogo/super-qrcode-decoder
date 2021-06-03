@@ -26,6 +26,7 @@ QR codes on various ID photos, scanned documents, and life photos
 # 服务价格(Price)
 
 请加知识星球沟通，不满意可以3天内退款
+
 Please scan qr code to dicuss with the marketing manager, if you are not satisfied, you can refund within 3 days
 
 
