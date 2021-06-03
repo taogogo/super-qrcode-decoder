@@ -3,6 +3,7 @@
 # 项目说明
 
 工业级二维码解析/读取，高识别准确率，高速批量识别模糊二维码、证件二维码、文件二维码。
+
 Industrial-grade qrcode parsing/reading, high recognition accuracy, high-speed batch recognition of fuzzy qrcode, ID photo qrcode, document photo qrcode
 
 
@@ -14,5 +15,8 @@ Industrial-grade qrcode parsing/reading, high recognition accuracy, high-speed b
 
 各类证件照片、文件扫描件、生活照片上的二维码
 
-# 演示示例
+# 模糊二维码示例
 
+# 服务价格
+
+请加知识星球沟通，不满意可以3天内退款
