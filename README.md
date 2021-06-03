@@ -29,4 +29,4 @@ QR codes on various ID photos, scanned documents, and life photos
 Please scan qr code to dicuss with the marketing manager, if you are not satisfied, you can refund within 3 days
 
 
-![zsxq](zsxq.jpg)
+![zsxq](zsxq.jpeg)
